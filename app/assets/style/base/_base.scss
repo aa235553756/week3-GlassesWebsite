@@ -1,0 +1,14 @@
+body{
+	line-height: 1.5;
+	font-family: $font-notoSans;
+}
+
+*,*::before,*::after{
+	box-sizing: border-box;
+}
+
+img{
+	max-width: 100%;
+	height: auto;
+	vertical-align: bottom;
+}
