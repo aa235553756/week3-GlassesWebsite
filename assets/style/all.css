@@ -561,7 +561,7 @@ img {
     font-style: italic; }
 
 .frame {
-  background-image: url(/assets/images/index-bg.png);
+  background-image: url(../images/index-bg.png);
   background-size: cover;
   background-repeat: no-repeat;
   padding-top: 80px;
